@@ -1,4 +1,13 @@
 ## Hi there 👋
+![html-5 (1)](https://github.com/user-attachments/assets/737aad85-6cc1-45cd-be45-ef3d267c8d3e)
+![css-3](https://github.com/user-attachments/assets/de7566e7-a1ab-421d-80e1-3e4a525d0fef)
+![js](https://github.com/user-attachments/assets/fd62eac5-c860-4294-9e35-e31847efdb79)
+![php](https://github.com/user-attachments/assets/13e71270-5548-4e9f-850a-81dbff5a047f)
+
+
+
+
+
 
 <!--
 **Joacoooo07/Joacoooo07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
